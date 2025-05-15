@@ -28,7 +28,9 @@ You can deploy this project using GitHub Pages or open `index.html` in your brow
 ---
 
 ## 📁 Project Structure
-
+index.html
+script.js
+style.css
 
 ---
 
