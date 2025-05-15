@@ -13,7 +13,7 @@ The form includes input fields for full name, email, password (with confirmation
 ---
 
 ## 🔗 Live Demo
-https://manojkoushik5.github.io/User-Registration-Form/
+https://manojkoushik5.github.io/user-registration-form/
 
 ---
 
