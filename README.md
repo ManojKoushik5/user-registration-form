@@ -13,8 +13,7 @@ The form includes input fields for full name, email, password (with confirmation
 ---
 
 ## 🔗 Live Demo
-
-You can deploy this project using GitHub Pages or open `index.html` in your browser to test it locally.
+https://manojkoushik5.github.io/User-Registration-Form/
 
 ---
 
